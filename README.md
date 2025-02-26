@@ -11,7 +11,7 @@ Para ejecutar el codigo es necesario tener gcc instalado.
 Se debe de ejecutar el siguiente codigo en la consola de comandos o powershell
 
 ```
-  run.bat
+run.bat
 ```
 
 ## Linux
@@ -19,5 +19,5 @@ Se debe de ejecutar el siguiente codigo en la consola de comandos o powershell
 Se debe de ejecutar el siguiente codigo en la linea de comandos(bash)
 
 ```
-  bash run.bash
+bash run.bash
 ```
